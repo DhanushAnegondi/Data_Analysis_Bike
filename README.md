@@ -1,4 +1,3 @@
-```markdown
 # London Bike Rides Analysis
 
 This repository contains an analysis of London Bike Rides data, focusing on the relationship between ride counts, temperature, and wind speed. The analysis includes a Tableau dashboard that visualizes key metrics and trends over the specified period.
