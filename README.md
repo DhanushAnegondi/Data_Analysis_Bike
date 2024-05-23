@@ -3,8 +3,7 @@
 This repository contains an analysis of London Bike Rides data, focusing on the relationship between ride counts, temperature, and wind speed. The analysis includes a Tableau dashboard that visualizes key metrics and trends over the specified period.
 
 ## Dashboard Overview
-
-![Tableau Dashboard](/Users/dhanushchandra/Downloads/London_Bike_project/Tableau Dashboard 1.png)
+![Tableau Dashboard 1](https://github.com/DhanushAnegondi/Data_Analysis_Bike/assets/168320961/3fb7172f-d815-41b2-a4e4-e5839b51851d)
 
 ### Key Metrics and Visualizations
 
